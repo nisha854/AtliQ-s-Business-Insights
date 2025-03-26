@@ -7,44 +7,44 @@ AtliQ Business Insights is an advanced data analytics project designed to enhanc
 ### Objectives
 * Enhance financial planning and budgeting.
 * Improve cost control and expense management.
-Key Achievements
+### Key Achievements
 * Developed a robust financial forecasting model, improving budget accuracy.
 * Established benchmarks against previous year and target goals for budgeting.
 
-**🔶 Sales View**
-Objectives
+## **🔶 Sales View**
+### Objectives
 * Increase sales revenue and market share.
 * Enhance customer relationship management.
-Key Achievements
+### Key Achievements
 * Created comprehensive reports on customer and product sales performance.
 * Identified sales trends and tracked KPIs.
 
-**🔶 Supply Chain View**
-Objectives
+## **🔶 Supply Chain View**
+### Objectives
 * Optimize inventory management and reduce lead times.
 * Strengthen supplier relationships for cost savings.
-Key Achievements
+### Key Achievements
 * Analyzed forecast accuracy, net error, and absolute error trends.
 * Developed metrics for managing supply by customers and products.
 
-**🔶 Executive View**
-Objectives
+## **🔶 Executive View**
+### Objectives
 * Provide an overview of organizational performance.
 * Enable data-driven decision-making for executives.
-Key Achievements
+### Key Achievements
 * Developed an executive dashboard for real-time performance monitoring.
 * Visualized revenue by division, customer, product, and channel, including a ribbon chart for manufacturers.
 
-**🔶 Marketing View**
-Objectives
+## **🔶 Marketing View**
+### Objectives
 * Increase brand visibility and customer engagement.
 * Implement data-driven marketing strategies.
-Key Achievements
+### Key Achievements
 * Created a report on regional and product-wise market performance.
 * Identified market trends and tracked KPIs.
 
-**🛠🔶 Skills and Techniques**
-**Technical Skills**
+## **🛠🔶 Skills and Techniques**
+ **Technical Skills**
 
 * Power BI: Fundamentals, calculated columns, DAX measures.
 * Data Modeling: Validation techniques, KPI indicators.
