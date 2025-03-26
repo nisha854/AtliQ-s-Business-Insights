@@ -5,7 +5,7 @@ AtliQ Business Insights is an advanced data analytics project designed to enhanc
 
 **🔶 Finance View**
 Objectives
-*Enhance financial planning and budgeting.
+* Enhance financial planning and budgeting.
 *Improve cost control and expense management.
 Key Achievements
 *Developed a robust financial forecasting model, improving budget accuracy.
