@@ -1,8 +1,9 @@
 # AtliQ's Business Insights
 
 ## **🌐 Project Overview**
-AtliQ Business Insights is an advanced data analytics project designed to enhance various facets of AtliQ Hardware's business operations. This includes Finance, Sales, Supply Chain, Executive Management, and Marketing. This project leverages Power BI to deliver actionable insights, optimize performance, and support data-driven decision-making.
-
+AtliQ Business Insights is an advanced data analytics project designed to enhance various facets of AtliQ Hardware's business operations. This includes Finance, Sales, Supply Chain, Executive Management, and Marketing. This project leverages Power BI to deliver actionable insights, optimize performance, and support data-driven decision-making.  
+ 
+##### Link: https://app.powerbi.com/view?r=eyJrIjoiMDA5ZDQ2ZmQtYWJhNy00MDQ3LThhY2QtMWRjNzEwZjI1NGU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## **🔶 Finance View**
 ### Objectives
 * Enhance financial planning and budgeting.
